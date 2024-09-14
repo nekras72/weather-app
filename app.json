@@ -22,6 +22,14 @@
     },
     "web": {
       "favicon": "./assets/vecteezy_3d-sun-emoji-happy-sun-funny-cute-character_21430046.png"
-    }
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow $(PRODUCT_NAME) to use your location."
+        }
+      ]
+    ]
   }
 }
