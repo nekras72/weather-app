@@ -4,10 +4,10 @@
     "slug": "weather-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/vecteezy_3d-sun-emoji-happy-sun-funny-cute-character_21430046.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/vecteezy_3d-sun-emoji-happy-sun-funny-cute-character_21430046.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,12 +16,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/vecteezy_3d-sun-emoji-happy-sun-funny-cute-character_21430046.png",
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/vecteezy_3d-sun-emoji-happy-sun-funny-cute-character_21430046.png"
     }
   }
 }
